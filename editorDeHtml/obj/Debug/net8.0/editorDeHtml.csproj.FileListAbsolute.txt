@@ -1,0 +1,14 @@
+C:\Users\Caio\source\repos\editorDeHtml\bin\Debug\net8.0\editorDeHtml.exe
+C:\Users\Caio\source\repos\editorDeHtml\bin\Debug\net8.0\editorDeHtml.deps.json
+C:\Users\Caio\source\repos\editorDeHtml\bin\Debug\net8.0\editorDeHtml.runtimeconfig.json
+C:\Users\Caio\source\repos\editorDeHtml\bin\Debug\net8.0\editorDeHtml.dll
+C:\Users\Caio\source\repos\editorDeHtml\bin\Debug\net8.0\editorDeHtml.pdb
+C:\Users\Caio\source\repos\editorDeHtml\obj\Debug\net8.0\editorDeHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio\source\repos\editorDeHtml\obj\Debug\net8.0\editorDeHtml.AssemblyInfoInputs.cache
+C:\Users\Caio\source\repos\editorDeHtml\obj\Debug\net8.0\editorDeHtml.AssemblyInfo.cs
+C:\Users\Caio\source\repos\editorDeHtml\obj\Debug\net8.0\editorDeHtml.csproj.CoreCompileInputs.cache
+C:\Users\Caio\source\repos\editorDeHtml\obj\Debug\net8.0\editorDeHtml.dll
+C:\Users\Caio\source\repos\editorDeHtml\obj\Debug\net8.0\refint\editorDeHtml.dll
+C:\Users\Caio\source\repos\editorDeHtml\obj\Debug\net8.0\editorDeHtml.pdb
+C:\Users\Caio\source\repos\editorDeHtml\obj\Debug\net8.0\editorDeHtml.genruntimeconfig.cache
+C:\Users\Caio\source\repos\editorDeHtml\obj\Debug\net8.0\ref\editorDeHtml.dll
